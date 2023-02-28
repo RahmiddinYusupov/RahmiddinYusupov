@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahmiddin</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<p align="left"><img src="https://www.behance.net/gallery/114445403/CREATIVE-CODING-EXPLORATIONS-II"alt="Rahmiddin Yusupov"/></p> 
+<p align="left"><img src="https://gfycat.com/classicweepyanemone-programming-coding"alt="Rahmiddin Yusupov"/></p> 
 
 - 🔭 I’m currently working on **Blog**
 
