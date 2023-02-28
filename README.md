@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahmiddin</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/114445403/CREATIVE-CODING-EXPLORATIONS-II"> 
+https://www.behance.net/gallery/114445403/CREATIVE-CODING-EXPLORATIONS-II 
 
 - 🔭 I’m currently working on **Blog**
 
