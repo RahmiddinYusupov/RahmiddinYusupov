@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahmiddin</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<p align="left"><img src="https://gfycat.com/classicweepyanemone-programming-coding"alt="Rahmiddin Yusupov"/></p> 
+<h3 align="center">A passionate Fullstack developer from Uzbekistan</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fble876-9a8f-4d6a-98dc-08c498leaf70.gif"> 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Rahmiddin-Yusupov&label=Profile%20views&color=0e75b6&style=flat"alt="Yusupov-Rahmiddin"/></p>
 
 - 🔭 I’m currently working on **Blog**
 
